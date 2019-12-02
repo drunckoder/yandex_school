@@ -1,0 +1,5 @@
+DB_LOGIN = ''
+DB_PASSWORD = ''
+DB_URL = 'localhost'
+DB_NAME = 'yandex_school'
+LOGGING_FORMAT = '%(asctime)s - %(filename)s - %(module)s - %(funcName)s - %(lineno)d - %(levelname)s - %(message)s'

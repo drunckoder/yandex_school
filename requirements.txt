@@ -1,0 +1,10 @@
+flask
+flask-cors
+flask-restful
+flask-sqlalchemy
+marshmallow
+psycopg2
+pytest
+numpy
+python-dateutil
+gunicorn
